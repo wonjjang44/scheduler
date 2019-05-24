@@ -4,7 +4,7 @@
 <li>프로젝트 주제 : 직원들의 일정을 공유할 스케줄러 구현 <br>
 <li>개발 기간 : 2019-01-15 ~ 2019-02-14 (1개월)<br>
 <li>개발 인원 : 4명<br>
-<li>개발 환경 : Eclipse,JavaSE, MySQL, OracleXE<br>
+<li>개발 환경 : Eclipse, JavaSE, MySQL, OracleXE<br>
 <li>본인 개발 Part
 </ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--------------------------------------<br>
